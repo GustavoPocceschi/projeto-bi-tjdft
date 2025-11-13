@@ -1,0 +1,1 @@
+gerar através do script colab, o arquivo 2. dump_carga_COMPLETO necessário para popular as tabelas.

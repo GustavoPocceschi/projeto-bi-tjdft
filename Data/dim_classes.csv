@@ -1,0 +1,693 @@
+﻿codigo_classe;nome_da_classe;situacao
+2;PROCESSO CÍVEL E DO TRABALHO;A
+5;SUPERIOR TRIBUNAL DE JUSTIÇA;A
+7;Procedimento Comum Cível;A
+26;Procedimentos Especiais;A
+27;Procedimentos Especiais de Jurisdição Contenciosa;A
+30;Arrolamento Comum;A
+31;Arrolamento Sumário;A
+32;Consignação em Pagamento;A
+34;Demarcação / Divisão;A
+37;Embargos de Terceiro Cível;A
+38;Habilitação;A
+39;Inventário;A
+40;Monitória;A
+45;Ação de Exigir Contas;A
+46;Restauração de Autos Cível;A
+47;Ação Rescisória;A
+48;Sobrepartilha;A
+49;Usucapião;A
+50;Procedimentos Especiais de Jurisdição Voluntária;A
+51;Abertura, Registro e Cumprimento de Testamento;A
+52;Alienação Judicial de Bens;A
+53;Arrecadação das Coisas Vagas;A
+54;Confirmação de Testamento;A
+55;Declaração de Ausência;A
+57;Herança Jacente;A
+58;Interdição/Curatela;A
+59;Organização e Fiscalização de Fundação;A
+60;Separação Consensual;A
+62;Procedimentos Regidos por Outros Códigos, Leis Esparsas e Regimentos;A
+63;Ação Civil Coletiva;A
+64;Ação Civil de Improbidade Administrativa;A
+65;Ação Civil Pública;A
+66;Ação Popular;A
+69;Alimentos - Lei Especial Nº 5.478/68;A
+74;Alvará Judicial - Lei 6858/80;A
+81;Busca e Apreensão em Alienação Fiduciária;A
+82;Cancelamento de Naturalização;A
+83;Cautelar Fiscal;A
+84;Cobrança de Cédula de Crédito Industrial;A
+85;Compromisso Arbitral;A
+86;Consignatória de Aluguéis;A
+87;Conversão de Separação Judicial em Divórcio;A
+88;Correição Parcial ou Reclamação Correicional;A
+89;Depósito da Lei 8. 866/94;A
+90;Desapropriação;A
+91;Desapropriação Imóvel Rural por Interesse Social;A
+92;Despejo;A
+93;Despejo por Falta de Pagamento;A
+94;Despejo por Falta de Pagamento Cumulado Com Cobrança;A
+95;Ação Direta de Inconstitucionalidade;A
+96;Discriminatória;A
+100;Dúvida;A
+107;Expropriação da Lei 8.257/91;A
+108;Falência de Empresários, Sociedades Empresáriais, Microempresas e Empresas de Pequeno Porte;A
+110;Habeas Data Cível;A
+111;Habilitação de Crédito;A
+113;Imissão na Posse;A
+114;Impugnação de Crédito;A
+115;Inquérito Extrajudicial;A
+118;Mandado de Injunção;A
+119;Mandado de Segurança Coletivo;A
+120;Mandado de Segurança Cível;A
+121;Naturalização;A
+122;Opção de Nacionalidade;A
+123;Averiguação de Paternidade;A
+124;Pedido de Resposta ou Retificação da Lei de Imprensa;A
+128;Recuperação Extrajudicial;A
+129;Recuperação Judicial;A
+134;Registro Torrens;A
+135;Relatório Falimentar;A
+136;Remição do Imóvel Hipotecado;A
+137;Renovatória de Locação;A
+138;Restituição de Coisa ou Dinheiro na Falência do Devedor Empresário;A
+140;Revisional de Aluguel;A
+142;Sonegados;A
+143;Suprimento de Idade e/ou Consentimento;A
+150;Procedimento de Liquidação;A
+151;Liquidação por Arbitramento;A
+152;Liquidação de Sentença pelo Procedimento Comum;A
+153;Liquidação Provisória por Arbitramento;A
+154;Liquidação Provisória de Sentença pelo Procedimento Comum;A
+155;Procedimento de Cumprimento de Sentença/Decisão;A
+156;Cumprimento de sentença;A
+157;Cumprimento Provisório de Sentença;A
+158;Processo de Execução;A
+159;Execução de Título Extrajudicial;A
+165;Insolvência Civil;A
+166;Insolvência Requerida pelo Credor;A
+167;Insolvência Requerida pelo Devedor ou pelo Espólio;A
+169;Embargos;A
+172;Embargos à Execução;A
+175;Processo Cautelar;A
+193;Produção Antecipada da Prova;A
+197;Recursos;A
+198;Apelação Cível;A
+199;Remessa Necessária Cível;A
+200;Agravos;A
+202;Agravo de Instrumento;A
+204;Agravo de Instrumento em Recurso Extraordinário;A
+206;Agravo Regimental Cível;A
+207;Embargos;A
+210;Embargos Infringentes na Execução Fiscal;A
+211;Recurso Ordinário Cível;A
+212;Recurso Extraordinário;A
+213;Recurso Especial;A
+214;Outros Procedimentos;A
+215;Incidentes;A
+216;Incidente De Arguição de Inconstitucionalidade Cível;A
+221;Conflito de competência cível;A
+228;Exibição de Documento ou Coisa Cível;A
+234;Remoção de Inventariante;A
+236;Oposição;A
+237;Atos e expedientes;A
+238;Avocatória;A
+239;Habilitação para Casamento;A
+240;Instrução de Rescisória;A
+241;Petição Cível;A
+242;Comunicação;A
+251;Registro de Casamento Nuncupativo;A
+256;Representação por Excesso de Prazo;A
+257;Cartas;A
+258;Carta de Ordem Cível;A
+261;Carta Precatória Cível;A
+264;Carta Rogatória Cível;A
+268;PROCESSO CRIMINAL;A
+269;Medidas Preparatórias;A
+271;Representação Criminal;A
+272;Representação Criminal/Notícia de Crime;A
+274;Interpelações;A
+275;Notificação para Explicações;A
+276;Notificação para Explicações (Lei de Imprensa);A
+277;Procedimentos Investigatórios;A
+278;Termo Circunstanciado;A
+279;Inquérito Policial;A
+280;Auto de Prisão em Flagrante;A
+281;Procedimento Comum;A
+282;Ação Penal de Competência do Júri;A
+283;Ação Penal - Procedimento Ordinário;A
+284;Processo Especial;A
+285;Processo Especial do Código de Processo Penal;A
+287;Crimes de Responsabilidade dos Funcionários Públicos;A
+288;Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular;A
+289;Crimes Contra a Propriedade Imaterial;A
+291;Restauração de Autos Criminal;A
+292;Processo Especial de Leis Esparsas;A
+293;Crimes Ambientais;A
+294;Crimes Contra a Propriedade Industrial;A
+295;Crimes Contra a Propriedade Intelectual;A
+297;Crimes de Imprensa;A
+300;Procedimento Especial da Lei Antitóxicos;A
+302;Procedimento Especial dos Crimes de Abuso de Autoridade;A
+303;Medidas Garantidoras;A
+304;Liberdade;A
+305;Liberdade Provisória com ou sem fiança;A
+306;Relaxamento de Prisão;A
+307;Habeas Corpus Criminal;A
+308;Medidas Cautelares;A
+309;Pedido de Busca e Apreensão Criminal;A
+310;Pedido de Quebra de Sigilo de Dados e/ou Telefônico;A
+311;Medidas Investigatórias Sobre Organizações Criminosas;A
+312;Pedido de Prisão;A
+313;Pedido de Prisão Preventiva;A
+314;Pedido de Prisão Temporária;A
+316;Questões e Processos Incidentes;A
+317;Exceções;A
+318;Exceção de Suspeição;A
+319;Exceção de Incompetência de Juízo;A
+320;Exceção de Litispendência;A
+321;Exceção de Ilegitimidade de Parte;A
+322;Exceção de Coisa Julgada;A
+323;Exceção de Impedimento;A
+324;Exceção da Verdade;A
+325;Conflito de Jurisdição;A
+326;Restituição de Coisas Apreendidas;A
+327;Embargos de Terceiro Criminal;A
+328;Medidas Assecuratórias;A
+329;Seqüestro;A
+330;Arresto / Hipoteca Legal;A
+331;Incidentes;A
+332;Incidente de Falsidade;A
+333;Insanidade Mental do Acusado;A
+334;Cartas;A
+335;Carta de Ordem Criminal;A
+355;Carta Precatória Criminal;A
+375;Carta Rogatória Criminal;A
+385;EXECUÇÃO PENAL E DE MEDIDAS ALTERNATIVAS;A
+386;Execução da Pena;A
+412;Recursos;A
+413;Agravo de Execução Penal;A
+417;Apelação Criminal;A
+418;Carta Testemunhável;A
+419;Correição Parcial Criminal;A
+420;Embargos de Declaração Criminal;A
+421;Embargos Infringentes e de Nulidade;A
+424;Recurso de Medida Cautelar Criminal;A
+426;Recurso em Sentido Estrito;A
+427;Remessa Necessária Criminal;A
+432;Desaforamento de Julgamento;A
+436;Procedimento do Juizado Especial Cível;A
+457;Pedido de Uniformização de Interpretação de Lei Cível;A
+460;Recurso Inominado Cível;A
+547;PROCEDIMENTOS DE INFÂNCIA E JUVENTUDE;A
+976;Ação Anulatória de Cláusulas Convencionais;A
+980;Ação de Cumprimento;A
+985;Ação Trabalhista - Rito Ordinário;A
+986;Inquérito para Apuração de Falta Grave;A
+987;Dissídio Coletivo;A
+988;Dissídio Coletivo de Greve;A
+990;Execução de Título Extrajudicial;A
+991;Execução de Termo de Ajuste de Conduta;A
+992;Execução de Termo de Conciliação de CCP;A
+993;Execução de Certidão de Crédito Judicial;A
+994;Execução Provisória em Autos Suplementares;A
+1000;Agravo;A
+1001;Agravo de Instrumento em Agravo de Petição;A
+1002;Agravo de Instrumento em Recurso de Revista;A
+1003;Agravo de Instrumento em Recurso Ordinário;A
+1004;Agravo de Petição;A
+1005;Agravo Regimental Trabalhista;A
+1006;Embargos;A
+1007;Embargos Infringentes;A
+1008;Recurso de Revista;A
+1009;Recurso Ordinário Trabalhista;A
+1013;Agravo em Recurso de Habeas Corpus;A
+1016;Embargos de Divergência em Agravo Regimental;A
+1017;Embargos à Execução em Mandado de Segurança;A
+1018;Embargos à Execução em Ação Recisoria;A
+1019;Embargos à Execução em Medida Cautelar;A
+1020;Execução em Ação Rescisória;A
+1021;Execução em Sentença Estrangeira;A
+1022;Execução em Sentença Estrangeira Contestada;A
+1023;Execução em Mandado de Segurança;A
+1024;Execução em Medida Cautelar;A
+1025;Incidente de Deslocamento de Competência ;A
+1026;Homologação de Decisão Estrangeira;A
+1027;Sentença Estrangeira Contestada;A
+1028;Sindicância;A
+1029;Mandado de Segurança;A
+1030;Reclamação;A
+1031;Recurso Ordinário;A
+1032;Recurso Especial;A
+1033;Ação Penal;A
+1034;Interpelação Judicial;A
+1036;Suspensão de Liminar e de Sentença;A
+1038;Representação;A
+1040;Requisição de Pequeno Valor;A
+1042;Inquérito;A
+1044;Agravo de Instrumento;A
+1045;Agravo em Recurso Extraordinário;A
+1046;Agravo em Recurso de Mandado de Segurança;A
+1047;Carta Rogatória;A
+1049;Habeas Data;A
+1053;Conflito de Atribuição;A
+1054;Conflito de Competência;A
+1057;Petição;A
+1062;Medida Cautelar;A
+1063;Exceção da Verdade;A
+1064;Remessa Necessária em Habeas Corpus;A
+1067;Procedimentos Trabalhistas;A
+1068;Processo de Execução Trabalhista;A
+1070;Incidentes Trabalhistas;A
+1071;Recursos Trabalhistas;A
+1072;Pedido de Revisão do Valor da Causa;A
+1106;Processo de Conhecimento;A
+1107;Procedimento de Conhecimento;A
+1116;Execução Fiscal;A
+1117;Execução Hipotecária do Sistema Financeiro da Habitação;A
+1118;Embargos à Execução Fiscal;A
+1125;Ação Trabalhista - Rito Sumaríssimo;A
+1126;Ação Trabalhista - Rito Sumário (Alçada);A
+1137;Embargos de Divergência em Recurso Especial;A
+1178;Incidente de Arguição de Inconstitucionalidade Criminal;A
+1198;PROCEDIMENTOS ADMINISTRATIVOS;A
+1199;Pedido de Providências;A
+1202;Reclamação;A
+1208;Agravo Interno Cível;A
+1209;Agravos;A
+1233;Efeito Suspensivo;A
+1262;Processo Administrativo Disciplinar em face de Servidor;A
+1264;Processo Administrativo Disciplinar em face de Magistrado;A
+1265;Precatório;A
+1266;Requisição de Pequeno Valor;A
+1267;Recurso de Multa;A
+1268;Medidas Protetivas de Urgência (Lei Maria da Penha)  - Criminal;A
+1269;Habeas Corpus Cível;A
+1271;Recurso de Medida Cautelar Cível;A
+1291;Reabilitação;A
+1294;Outros procedimentos de jurisdição voluntária;A
+1296;Ação Declaratória de Constitucionalidade;A
+1297;Intervenção em Município;A
+1298;Processo Administrativo;A
+1299;Recurso Administrativo;A
+1301;Reclamação Disciplinar;A
+1303;Correição Extraordinária;A
+1304;Inspeção;A
+1306;Recurso em Processo Administrativo Disciplinar em face de Servidor;A
+1307;Correição Ordinária;A
+1308;Sindicância;A
+1310;SUPREMO TRIBUNAL FEDERAL;A
+1311;Ação Cautelar;A
+1312;Ação  Originária;A
+1313;Ação Declaratória de Constitucionalidade;A
+1314;Ação Direta de Inconstitucionalidade;A
+1315;Ação Cível Originária;A
+1316;Ação Originária Especial;A
+1317;Ação Penal;A
+1318;Ação Rescisória;A
+1320;Agravo de Instrumento;A
+1321;Agravo Regimental;A
+1322;Arguição de Descumprimento de Preceito Fundamental;A
+1323;Arguição de Suspeição;A
+1325;Comunicação;A
+1326;Conflito de Competência;A
+1327;Embargos de Declaração;A
+1328;Embargos Divergentes;A
+1329;Embargos Infringentes;A
+1330;Extradição;A
+1331;Habeas Corpus;A
+1332;Habeas Data;A
+1333;Inquerito;A
+1334;Intervenção Federal;A
+1335;Mandado de Injunção;A
+1336;Mandado de Segurança;A
+1337;Medida Cautelar;A
+1338;Petição;A
+1339;Prisão Preventiva para Extradição;A
+1341;Questão de Ordem;A
+1342;Reclamação;A
+1343;Recurso Criminal;A
+1344;Recurso em Habeas Corpus;A
+1345;Recurso em Habeas Data;A
+1346;Recurso em Mandado de Injunção;A
+1347;Recurso em Mandado de Segurança;A
+1348;Recurso Extraordinário;A
+1349;Revisão Criminal;A
+1352;Suspensão de Liminar;A
+1353;Suspensão de Segurança;A
+1354;Suspensão de Tutela Provisória;A
+1355;Siglas dos Processos Extintos;A
+1356;Ação Ordinária Regressiva;A
+1357;Ação Regressiva;A
+1358;Apelação Cível;A
+1359;Apelação Criminal;A
+1360;Arguição de Relevância;A
+1361;Carta Testemunhável;A
+1362;Conflito de Atribuições;A
+1363;Conflito de Jurisdição;A
+1364;Denúncia;A
+1365;Embargos Remetidos;A
+1366;Exceção da Verdade;A
+1367;Exceção de Suspeição;A
+1368;Inquérito Administrativo;A
+1369;Inquérito Policial;A
+1370;Inquérito Policial Especial;A
+1371;Interpelação;A
+1372;Liquidação de Sentença;A
+1373;Notificação;A
+1374;Pedido de Avocação;A
+1375;Processo Crime;A
+1376;Processo Judicial;A
+1377;Queixa Crime;A
+1378;Recurso de Apreensão de Livro;A
+1379;Recurso de Liquidação de Sentença;A
+1380;Recurso de Revista;A
+1381;Representação;A
+1382;Retificação de Nome Estrangeiro;A
+1383;Sentença Arbitral;A
+1384;Suspensão de Direitos;A
+1385;Seção Cível;A
+1386;Processo de Conhecimento;A
+1389;Ação de Alimentos de Infância e Juventude;A
+1390;Revisão Judicial de Decisão do Conselho Tutelar;A
+1391;Apuração de Irregularidades em Entidades de Atendimento;A
+1392;Apuração de Infração Administrativa às Normas de Proteção à Criança ou Adolescente;A
+1396;Tutela Infância e Juventude;A
+1399;Tutela c/c Destituição do Poder Familiar;A
+1401;Adoção;A
+1414;Suprimento de Capacidade ou de Consentimento para Casar;A
+1415;Emancipação;A
+1417;Regularização de Registro Civil;A
+1420;Guarda de Infância e Juventude;A
+1424;Providência ;A
+1425;Prestação de Contas Infância e Juventude;A
+1430;Processo de Execução;A
+1432;Execução de Alimentos Infância e Juventude;A
+1434;Execução de Medida de Proteção à Criança e Adolescente;A
+1435;Execução de Multa;A
+1436;Processos Cautelares;A
+1438;Busca e Apreensão Infância e Juventude;A
+1440;Cautelar Inominada Infância e Juventude;A
+1450;Cartas;A
+1451;Carta de Ordem Infância e Juventude;A
+1455;Carta Precatória Infância e Juventude;A
+1459;Seção Infracional;A
+1460;Procedimentos Investigatórios;A
+1461;Auto de Apreensão em Flagrante;A
+1462;Relatório de Investigações;A
+1463;Boletim de Ocorrência Circunstanciada;A
+1464;Processo de Apuração de Ato Infracional;A
+1465;Execução de Medidas Socioeducativas;A
+1473;Cartas;A
+1474;Carta de Ordem Infracional;A
+1478;Carta Precatória Infracional;A
+1669;Ação Rescisória;A
+1670;Ação de Improbidade Administrativa;A
+1671;Comunicação;A
+1672;Exceção de Impedimento;A
+1673;Exceção de Suspeição;A
+1674;Intervenção Federal;A
+1675;Mandado de Injunção;A
+1677;Precatório;A
+1678;Revisão Criminal;A
+1679;Suspensão de Segurança;A
+1680;Consulta Administrativa;A
+1682;Retificação ou Suprimento ou Restauração de Registro Civil;A
+1683;Retificação de Registro de Imóvel;A
+1685;Remessa Necessária Trabalhista;A
+1689;Embargos de Declaração Cível;A
+1690;Ação Civil Pública Infância e Juventude;A
+1691;Mandado de Segurança Infância e Juventude Cível;A
+1701;Nomeação de Advogado;A
+1703;Autorização judicial;A
+1704;Embargos de Terceiro Infância e Juventude;A
+1705;Remoção, modificação  e dispensa de tutor ou curador;A
+1706;Procedimento Comum Infância e Juventude;A
+1707;Reintegração / Manutenção de Posse;A
+1709;Interdito Proibitório;A
+1710;Mandado de Segurança Criminal;A
+1711;Agravo de Instrumento em Recurso Especial;A
+1715;Embargos do Acusado;A
+1717;Alienação de Bens do Acusado;A
+1719;Avaliação para atestar dependência de drogas;A
+1720;Habeas Corpus;A
+1721;Recurso Ordinário em Mandado de Segurança;A
+1722;Recurso Ordinário em Habeas Corpus;A
+1727;Petição Criminal;A
+1728;Apelação / Remessa Necessária;A
+1729;Agravo Interno Criminal;A
+1730;Recurso Ordinário Criminal;A
+1731;Investigação contra magistrado;A
+1733;Procedimento Investigatório Criminal (PIC-MP) ;A
+10933;Habilitação para Adoção;A
+10942;Correição Parcial Cível;A
+10943;Ação Penal - Procedimento Sumário;A
+10944;Ação Penal - Procedimento Sumaríssimo;A
+10960;Incidente de Sanidade Mental;A
+10967;Medidas de Proteção à Pessoa Idosa - Criminal;A
+10969;Incidentes;A
+10970;Conflito de Competência Infância e Juventude;A
+10972;Exibição de Documento ou Coisa Infância e Juventude;A
+10973;Impugnação ao Valor da Causa Infância e Juventude;A
+10974;Incidente de Falsidade Infância e Juventude;A
+10979;Petição Infracional;A
+10980;Cumprimento Provisório de Decisão;A
+11026;Petição Infância e Juventude Cível;A
+11027;Remessa Necessária / Recurso Ordinário;A
+11028;PROCESSO MILITAR;A
+11029;PROCEDIMENTOS ESPECIAIS PREVISTOS EM LEIS ESPARSAS;A
+11030;PROCESSO CRIMINAL;A
+11031;Procedimento Especial;A
+11032;Procedimentos Investigatórios;A
+11033;Recursos;A
+11034;Conselho de Justificação ;A
+11035;Representação p/ Declaração de Indignidade/Incompatibilidade ;A
+11036;Representação p/ Perda da Graduação ;A
+11037;Ação Penal Militar - Procedimento Ordinário;A
+11038;Embargos em Ação Penal Militar;A
+11039;Reclamação Militar;A
+11040;Recurso Inominado Militar;A
+11041;Inquérito Policial Militar;A
+11042;Correição Parcial Militar;A
+11043;Deserção;A
+11044;Insubmissão;A
+11045;Deserção de Oficial;A
+11046;Deserção de Praça;A
+11099;PROCEDIMENTOS PRÉ-PROCESSUAIS DE RESOLUÇÃO CONSENSUAL DE CONFLITOS;A
+11397;Extinção das obrigações do falido;A
+11398;Recurso em sentido estrito/Recurso ex officio;A
+11400;Agravo de Instrumento em Recurso Ordinário para o STF;A
+11427;PROCESSO ELEITORAL;A
+11525;Processos Cíveis-Eleitorais;A
+11526;Ação de Impugnação de Mandato Eletivo;A
+11527;Ação de Investigação Judicial Eleitoral;A
+11528;Ação Penal Eleitoral;A
+11529;Procedimentos Relativos a Realização de Eleição;A
+11530;Apuração de Eleição;A
+11532;Registro de Candidatura;A
+11533;Recurso contra Expedição de Diploma;A
+11534;Procedimentos Relativos a Partidos Políticos;A
+11535;Cancelamento de Registro de Partido Político;A
+11536;Propaganda Partidária;A
+11537;Registro de Órgão de Partido Político em Formação;A
+11539;Registro de Partido Político;A
+11540;Procedimentos Administrativos da Justiça Eleitoral;A
+11541;Representação;A
+11542;Correição;A
+11543;Criação de Zona Eleitoral ou Remanejamento;A
+11544;Instrução;A
+11545;Lista Tríplice;A
+11546;Revisão de Eleitorado;A
+11547;Recursos Eleitorais;A
+11548;Recurso Eleitoral;A
+11549;Recurso Especial Eleitoral;A
+11550;Recurso Ordinário Eleitoral;A
+11551;Consulta;A
+11552;Pedido de Desaforamento;A
+11555;Suspensão de Liminar e de Sentença;A
+11556;Suspensão de Segurança Cível;A
+11788;Exibição de Documento ou Coisa Criminal;A
+11791;Pedido de Uniformização de Interpretação de Lei Criminal;A
+11793;Produção Antecipada de Provas Criminal;A
+11794;Restituição de Coisas Apreendidas Infracional;A
+11798;Processo de Aplicação de Medida de Segurança Por Fato Não Criminoso;A
+11799;Instrução Provisória de Insubmissão;A
+11800;Instrução Provisória de Deserção;A
+11875;Reclamação Pré-processual;A
+11880;Recurso Extraordinário com Agravo;A
+11881;Agravo em Recurso Especial;A
+11882;Recurso de Revista com Agravo;A
+11886;Recurso Ordinário - Rito Sumaríssimo;A
+11887;Acompanhamento de Cumprimento de Decisão;A
+11888;Ato Normativo;A
+11889;Nota Técnica;A
+11890;Parecer de Mérito sobre Anteprojeto de Lei;A
+11891;Procedimento de Controle Administrativo;A
+11892;Revisão Disciplinar;A
+11893;Reclamação para Garantia das Decisões;A
+11894; Comissão;A
+11953;Arguição de Suspeição e de Impedimento;A
+11955;Cautelar Inominada Criminal;A
+11956;Embargos de Divergência em Agravo em Recurso Especial;A
+12059;Suspensão de Segurança - Eleitoral;A
+12060;Incidente de Impedimento/Suspeição;A
+12070;Pedido de Medida de Proteção;A
+12071;Procedimentos Cautelares;A
+12072;Busca e Apreensão Infracional;A
+12073;Internação Provisória;A
+12074;Pedido De Desinternação/Reavaliação/Substituição/Suspensão da Medida;A
+12075;Procedimento Conciliatório;A
+12076;Restabelecimento do Poder Familiar;A
+12077;Homologação em Acordo de Colaboração Premiada;A
+12078;Cumprimento de Sentença contra a Fazenda Pública;A
+12079;Execução de Título Extrajudicial contra a Fazenda Pública;A
+12080;Incidente de Impedimento Cível;A
+12081;Incidente de Suspeição Cível;A
+12082;Carta Arbitral;A
+12085;Incidente de Resolução de Demandas Repetitivas;A
+12086;Dissolução Parcial de Sociedade;A
+12087;Incidente de Assunção de Competência;A
+12118;Suspensão em Incidente de Resolução de Demandas Repetitivas;A
+12119;Incidente de Desconsideração de Personalidade Jurídica;A
+12121;Comunicado de Mandado de Prisão;A
+12122;Reclamação Criminal;A
+12132;Incidente de Julgamento de Recurso de Revista e de Embargos Repetitivos;A
+12137;Requerimento de Apreensão de Veículo;A
+12138;Requerimento de Reintegração de Posse;A
+12139;Contestação em Foro Diverso;A
+12153;Embargos Parciais à Ação Monitória;A
+12154;Execução de Título Extrajudicial;A
+12190;Suspensão Nacional do Incidente de Resolução de Demandas Repetitivas;A
+12191;Tutela Provisória Antecedente;A
+12192;Tutela Provisória Incidental;A
+12193;Prestação de Contas Eleitorais;A
+12226;Notificação;A
+12227;Interpelação;A
+12228;Protesto;A
+12229;Protesto formado a bordo;A
+12230;Guarda c/c destituição do poder familiar;A
+12231;Cumprimento de sentença - Lei Arbitral (Lei 9.307/1996);A
+12233;Tutela Cível;A
+12246;Cumprimento de Sentença de Obrigação de Prestar Alimentos;A
+12247;Execução Extrajudicial de Alimentos;A
+12248;Pedido de Cooperação Judiciária;A
+12357;Pedido de Efeito Suspensivo à Apelação;A
+12370;Tomada de Decisão Apoiada;A
+12371;Alteração de Regime de Bens;A
+12372;Divórcio Consensual;A
+12374;Homologação da Transação Extrajudicial;A
+12375;Reclamação;A
+12376;Regulação de Avaria Grossa;A
+12377;Prestação de Contas Anual;A
+12386;Incidente de Impedimento Infância e Juventude;A
+12388;Incidente de Suspeição Infância e Juventude;A
+12389;Ação de Partilha;A
+12391;Incidente de Uniformização de Jurisprudência;A
+12394;Revisão Criminal;A
+12423;Medidas Protetivas de Urgência (Lei Maria da Penha) - Infracional;A
+12424;Medidas de Proteção à Pessoa Idosa - Infracional;A
+12464;Corregedoria Eleitoral;A
+12465;Petição Corregedoria;A
+12466;Inquérito Administrativo;A
+12541;Divórcio Litigioso;A
+12549;Cancelamento de Inscrição Eleitoral (CIE);A
+12550;Composição de Mesa Receptora;A
+12552;Direitos Políticos;A
+12553;Duplicidade/Pluralidade de Inscrições - Coincidências;A
+12554;Filiação Partidária;A
+12555;Impugnação à Composição de Junta Eleitoral;A
+12556;Impugnação Perante as Juntas Eleitorais;A
+12557;Recurso/Impugnação de Alistamento Eleitoral;A
+12559;Regularização de Situação do Eleitor;A
+12560;Lista de Apoiamento para Criação de Partido Político;A
+12561;Notícia de Irregularidade em Propaganda Eleitoral;A
+12562;PET-ADM;A
+12625;Direito de Resposta;A
+12626;Agravo em Recurso Especial Eleitoral;A
+12627;Ação Rescisória Eleitoral;A
+12628;Ação de Justificação de Desfiliação Partidária/Perda de Cargo Eletivo;A
+12629;Pedido de Novas Eleições;A
+12630;Representação Especial;A
+12631;Requerimento de Regularização de Omissão de Prestação de Contas Anual;A
+12633;Requerimento de Regularização de Omissão de Prestação de Contas Eleitorais;A
+12727;Execução de Pena de Multa;A
+12728;Transferência Entre Estabelecimentos Penais;A
+12729;Execução de Medidas Alternativas no Juízo Comum;A
+12760;Recurso de Julgamento Parcial ;A
+12761;Homologação do Penhor Legal;A
+12762;Extinção Consensual de União Estável;A
+12763;Reconhecimento e Extinção de União Estável;A
+12764;Separação Contenciosa;A
+12775;Ação Direta de Inconstitucionalidade por Omissão;A
+12776;Arguição de Impedimento;A
+12777;Exceção de Incompetência;A
+12778;Exceção de Litispendência;A
+12779;Proposta de Súmula Vinculante;A
+12780;Admissão de Assistente;A
+12781;Impugnação ao Valor da Causa;A
+12782;Incidente de Falsidade;A
+12783;Oposição;A
+12784;Suspeição de Perito;A
+12785;Embargos à Execução;A
+12786;Cumprimento de Sentença;A
+12788;Execução contra a Fazenda Pública;A
+12789;Execução de Pena;A
+12790;Extensão;A
+12791;Incidente de Assunção de Competência;A
+14123;Destinação de Bens Apreendidos;A
+14208;Suspensão de Órgão Partidário;A
+14209;Recurso Criminal Eleitoral;A
+14671;Guarda de Família;A
+14676;Pedido de Inclusão no Cadastro de Programa de Apadrinhamento;A
+14677;Regulamentação da Convivência Familiar;A
+14678;Acordo de Não Persecução Penal;A
+14695;Procedimento do Juizado Especial da Fazenda Pública;A
+14696;Execução de Medidas Alternativas nos Juizados Especiais;A
+14701;Habeas Data Criminal;A
+14734;Medidas de Proteção - Criança e Adolescente (Lei 13.431) Criminais;A
+14775;Agravo de Instrumento em Mandado de Segurança;A
+14991;Classificação de Crédito Público;A
+15011;Registro de Federação Partidária;A
+15090;Recurso;A
+15140;Entrega Voluntária;A
+15159;Regime Centralizado de Execuções;A
+15160;Cumprimento de Sentença de Ações Coletivas;A
+15161;Cumprimento Provisório de Sentença de Ações Coletivas;A
+15167;Acordo de Não Persecução Cível;A
+15170;Medidas Protetivas de Urgência - Crianças e Adolescentes (Lei Henry Borel - Lei 14.344/2022) Criminais;A
+15171;Medidas Protetivas de Urgência - Crianças e Adolescentes (Lei Henry Borel - Lei 14.344/2022) Infracionais;A
+15172;Medidas de Proteção - Criança e Adolescente (Lei 13.431) Infracionais;A
+15187;Plano Especial de Pagamento Trabalhista;A
+15190;Destituição do Poder Familiar;A
+15191;Adoção pelo Cadastro;A
+15192;Adoção Fora do Cadastro;A
+15193;Adoção Fora do Cadastro c/c Destituição do Poder Familiar;A
+15194;Suspensão do Poder Familiar;A
+15195;Seção Administrativa;A
+15196;Inspeção;A
+15215;Cumprimento de Sentença contra a Fazenda Pública Mediante Execução Invertida;A
+15217;Procedimento de Repactuação de Dívidas (Superendividamento);A
+15224;Habeas Corpus Coletivo;A
+15228;Queixa-Crime;A
+15239;Proposta de Anteprojeto de Lei;A
+15240;Auditoria;A
+15241;Avaliação de Obras;A
+15242;Pedido de Esclarecimento;A
+15243;Monitoramento de Auditorias e Obras;A
+15303;Representação em Propaganda Partidária;A
+15309;Medidas Protetivas de Urgência (Lei Maria da Penha) - Cível;A
+15321;Revisão Judicial - RDII;A
+15323;Reclamação Administrativa Eleitoral;A
+15423;Revisão Judicial - Conselho de Justificação;A
+15430;Cumprimento de Sentença - Reclamação Pré-processual;A
+15532;Incidentes de Superação e Revisão de Precedentes Qualificados;A
+15533;Incidente de Superação e Revisão de Precedentes em Recurso de Revista e Embargos Repetitivos;A
+15534;Incidente de Superação e Revisão de Precedentes em Incidente de Assunção de Competência;A
+15535;Incidente de Superação e Revisão de Precedente em Incidente de Resolução de Demandas Repetitivas;A
+15543;Arguição de Descumprimento de Preceito Fundamento Previsto em Constituição Estadual;A
+15545;Procedimento Relativo à Posse de Maconha para Consumo Pessoal;A
+12134;Cumprimento de Sentença de Obrigação de Prestar Alimentos;A
+12135;Execução de Título Extrajudicial de Obrigação de Prestar Alimentos;A
+12133;Alimentos - Lei Especial Nº 5.478/68;A
+11993;Carta Precatória Cível;A
